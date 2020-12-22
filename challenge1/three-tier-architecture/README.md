@@ -12,7 +12,7 @@ Three modules that constructs our architecture:
 Setup:
 * [Install Terraform](https://www.terraform.io/intro/getting-started/install.html)
 * Setup your credentials via [AWS Provider](https://www.terraform.io/docs/providers/aws/index.html#access_key)
-* [Run Three Tier Init with the corresponding env value to setup terraform backend with s3 bucket and dynamodb](https://github.com/jejusjamal/Terraform/three-tier-init)
+* [Run Three Tier Init with the corresponding env value to setup terraform backend with s3 bucket and dynamodb](https://github.com/jejusjamal/Terraform/tree/master/three-tier-init)
 * Clone this project
 
 Run commands to deploy:
