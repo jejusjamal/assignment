@@ -3,9 +3,9 @@
 
 This is an implementation of the classic three tier architecture for application hosting.  <br />
 Three modules that constructs our architecture:
-* [network](https://github.com/jejusjamal/assignment/challenge1/three-tier-architecture/tree/master/modules/network)
-* [web](https://github.com/jejusjamal/assignment/challege1/three-tier-architecture/tree/master/modules/web)
-* [db](https://github.com/jejusjamal/assignment/challenge1/three-tier-architecture/tree/master/modules/db)
+* [network](https://github.com/jejusjamal/assignment/tree/master/challenge1/three-tier-architecture/modules/network)
+* [web](https://github.com/jejusjamal/assignment/tree/master/challenge1/three-tier-architecture/modules/web)
+* [db](https://github.com/jejusjamal/assignment/tree/master/challenge1/three-tier-architecture/modules/db)
 
 ## How to deploy
 
