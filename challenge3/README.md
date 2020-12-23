@@ -13,7 +13,7 @@ value = a
 ```
 object = {"identity-credentials": {"ec2": {"info": {"Code": "Success","LastUpdated": "2020-12-20T17:45:18Z","AccountId": "556428197880"}}}}
 key    = 'identity-credentials/ec2/info/AccountId'
-value  = "556428197880"
+value  =  556428197880
 ```
 
 ## How to install
