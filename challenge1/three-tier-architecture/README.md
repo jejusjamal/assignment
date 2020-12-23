@@ -3,16 +3,16 @@
 
 This is an implementation of the classic three tier architecture for application hosting.  <br />
 Three modules that constructs our architecture:
-* [network](https://github.com/jejusjamal/assignment/three-tier-architecture/tree/master/modules/network)
-* [web](https://github.com/jejusjamal/assignment/three-tier-architecture/tree/master/modules/web)
-* [db](https://github.com/jejusjamal/assignment/three-tier-architecture/tree/master/modules/db)
+* [network](https://github.com/jejusjamal/assignment/tree/master/challenge1/three-tier-architecture/modules/network)
+* [web](https://github.com/jejusjamal/assignment/tree/master/challenge1/three-tier-architecture/modules/web)
+* [db](https://github.com/jejusjamal/assignment/tree/master/challenge1/three-tier-architecture/modules/db)
 
 ## How to deploy
 
 Setup:
 * [Install Terraform](https://www.terraform.io/intro/getting-started/install.html)
 * Setup your credentials via [AWS Provider](https://www.terraform.io/docs/providers/aws/index.html#access_key)
-* [Run Three Tier Init with the corresponding env value to setup terraform backend with s3 bucket and dynamodb](https://github.com/jejusjamal/terraform/three-tier-init)
+* [Run Three Tier Init with the corresponding env value to setup terraform backend with s3 bucket and dynamodb](https://github.com/jejusjamal/Terraform/tree/master/three-tier-init)
 * Clone this project
 
 Run commands to deploy:
