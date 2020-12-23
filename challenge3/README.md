@@ -6,8 +6,14 @@
 - Eg. 
 ```
 object = {“x”:{“y”:{“z”:”a”}}}
-key = x/y/z
+key = 'x/y/z'
 value = a
+```
+
+```
+object = {"identity-credentials": {"ec2": {"info": {"Code": "Success","LastUpdated": "2020-12-20T17:45:18Z","AccountId": "556428197880"}}}}
+key    = 'identity-credentials/ec2/info/AccountId'
+value  = "556428197880"
 ```
 
 ## How to install
@@ -28,7 +34,7 @@ value = a
 ## How to run
 - Open the `assignment` folder
   - `cd assignment/challenge3`
-- Run whichever script you need:
+- Run the script below to test yourself for different inputs need:
   - `python3 get_nested_kv.py (provide the inputs in the file before running)`
 - Unit test cases have been written to test the different inputs and outputs, you can execute them with below command.
   - `python -m unittest test_get_nested_kv.py`
